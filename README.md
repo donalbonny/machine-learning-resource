@@ -8,7 +8,7 @@
 * [paper: A pitfall for machine learning methods aiming to predict across cell types](https://www.biorxiv.org/content/early/2019/01/04/512434)
 * [Learn machine learning from Kaggle](https://www.kaggle.com/learn/machine-learning)
 * [Data Science Machine Learning from EdX, using R](https://courses.edx.org/courses/course-v1:HarvardX+PH125.8x+2T2018/course/)
-* [Python for Data science and Machine Learning, Udemy course] (https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/content)
+* [Python for Data science and Machine Learning, Udemy course](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/content)
 
 
 ### deep learning
