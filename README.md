@@ -9,6 +9,7 @@
 * [Learn machine learning from Kaggle](https://www.kaggle.com/learn/machine-learning)
 * [Data Science Machine Learning from EdX, using R](https://courses.edx.org/courses/course-v1:HarvardX+PH125.8x+2T2018/course/)
 * [Python for Data science and Machine Learning, Udemy course](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/content)
+* [Metrics to evaluate your machine learning algorithm](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
 
 
 ### deep learning
