@@ -12,6 +12,9 @@
 * [Metrics to evaluate your machine learning algorithm](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
 
 
+* [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
+
 ### deep learning
 
 * [Getting started with deep learning in R](https://blogs.rstudio.com/tensorflow/posts/2018-09-07-getting-started/) blog post from Rstudio.  
